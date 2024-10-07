@@ -1,0 +1,5 @@
+.container {
+    display: flex;
+    justify-content: flex-end;  /* Aligns items horizontally to the right */
+    align-items: flex-end;      /* Aligns items vertically to the bottom */
+}
